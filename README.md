@@ -1,1 +1,2 @@
 # Teori-Bahasa-dan-Automata-Final-Project
+Di Final Project ini ada 2 file yang dibuat, yang pertama adalah FA untuk mengecek apakah tag pembuka dan penutup HTML memiliki format yang tepat (Anda bisa menggunakan aplikasi jflap untuk membuka file ini). Sedangkan untuk file yang kedua adalah program yang digunakan untuk mengecek jika Tag HTML memiliki format yang tepat (Token Recognizer) dan jika HTML memiliki struktur yang tepat (Parser)
